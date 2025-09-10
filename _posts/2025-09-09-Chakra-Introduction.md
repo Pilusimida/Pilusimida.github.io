@@ -1,4 +1,9 @@
-# Chakra Introduction
+---
+layout: post
+title: "Chakra Introduction"
+date: 2025-09-09
+---
+<!-- # Chakra Introduction -->
 
 ## OPEN-SOURCE TOOLS
 ### Execution Trace Converter
