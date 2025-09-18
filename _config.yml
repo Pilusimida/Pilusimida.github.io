@@ -3,6 +3,10 @@ collections:
     output: true
   deeplearning_efficientAI:
     output: true
+  cpp:
+    output: true
+  DML:
+    output: true
 theme: minima
 title: 我的技术博客
 description: 记录技术与科研笔记
